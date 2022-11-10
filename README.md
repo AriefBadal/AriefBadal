@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AriefBadal&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriefBadal23&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriefBadal&layout=compact"/>
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
